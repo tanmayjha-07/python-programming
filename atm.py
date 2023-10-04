@@ -1,4 +1,7 @@
 #11
+
+#atm 
+# By Tanmay Jha 
 amount=float(input("Enter amount: ")) -100
 
 t_k= amount//2000
